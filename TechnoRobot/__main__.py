@@ -89,7 +89,7 @@ buttons = [
             text="❤️ ꜱᴜᴘᴘᴏʀᴛ ❤️", url=f"https://t.me/Dostana_Dosti_101"
 
      ),
-        InlineKeyboardButton(text="👨🏻‍💻 Developer 👨🏻‍💻", url="t.me/ItsAman_xD"
+        InlineKeyboardButton(text="👨🏻‍💻 Developer 👨🏻‍💻", url="t.me/ItsAman_xD"),
     ],
     [
         InlineKeyboardButton(text="🌚 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ ❔", callback_data="help_back"),
@@ -98,7 +98,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` Techno [🙋‍♀️](https://telegra.ph/file/6ed6f06b87ff14c0f2029.jpg),
+`ʜɪ.. ɪ'ᴍ` 𝐌𝐢𝐬𝐬 𝐀𝐦𝐦𝐮 [🙋‍♀️](https://telegra.ph/file/6ed6f06b87ff14c0f2029.jpg),
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
 MissAmmu_IMG = "https://telegra.ph/file/e195c9da651e8a81934cb.jpg"
