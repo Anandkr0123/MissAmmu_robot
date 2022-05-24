@@ -74,23 +74,25 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʟʟᴏ [💓](https://telegra.ph/file/6e83087730d12d22fe6e8.jpg), Hello! ɪ'ᴍ Miss Ammu, ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
+ʜᴇʟʟᴏ [💓](https://telegra.ph/file/6e83087730d12d22fe6e8.jpg), Hello! ɪ'ᴍ 𝙈𝙞𝙨𝙨 𝘼𝙢𝙢𝙪, ᴀ ʜɪɢʜlʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ Techno ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/Techno_x_robot?startgroup=true"),
+            text="✗ 𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 ✗", url="t.me/Techno_x_robot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="amelia_"),
+        InlineKeyboardButton(text="💞 ᴀʙᴏᴜᴛ 💞", callback_data="amelia_"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Dostana_Dosti_101"
-        ),
+            text="❤️ ꜱᴜᴘᴘᴏʀᴛ ❤️", url=f"https://t.me/Dostana_Dosti_101"
+
+     ),
+        InlineKeyboardButton(text="👨🏻‍💻 Developer 👨🏻‍💻", url="t.me/ItsAman_xD"
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
+        InlineKeyboardButton(text="🌚 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ ❔", callback_data="help_back"),
     ],
 ]
 
@@ -99,7 +101,7 @@ HELP_STRINGS = """
 `ʜɪ.. ɪ'ᴍ` Techno [🙋‍♀️](https://telegra.ph/file/6ed6f06b87ff14c0f2029.jpg),
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
-MissAmmu_IMG = "https://telegra.ph/file/6ed6f06b87ff14c0f2029.jpg"
+MissAmmu_IMG = "https://telegra.ph/file/e195c9da651e8a81934cb.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @itsmelegend\
